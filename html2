@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title><style>
+        .box image{
+            border: 10px;
+            height: 10px;
+            width: 10px;
+        }
+        .box{
+            border: 2px solid black;
+            height: 500px;
+            background-color: bisque;
+            border-radius: 20px;
+            width: 300px;
+        }
+        img#hell{
+width: 250px;
+height:100px;
+padding: 20px;
+
+        }
+        h2{
+        text-align: center;
+        text-decoration: underline;
+        font-style: oblique;
+        
+        }
+        p{
+            text-align: center;
+            color: rgb(105, 102, 97);
+        }
+        button#mole{
+            height: 20px;
+            width: 90px;
+            justify-content: center;
+            padding: ;
+            margin: 20px;
+            background-color: rgb(231, 150, 29);
+            color: rgb(57, 2, 2);
+            font-style:oblique;
+            border-color:rgb(231, 150, 29);
+
+        }
+         button#nik{
+            height: 20px;
+            width: 70px;
+            font-style: oblique;
+            border: none;
+            margin: 10px;
+            border-radius: 6px;
+            background-color: rgb(231, 150, 29);
+
+         }
+    </style>
+</head>
+<body>
+    <div class="box">
+        
+<img id="hell" src="https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=">
+<span>
+    <button id="nik">
+        comment
+    </button>
+    <button id="nik">
+        like
+    </button>
+</span>    
+<h2>
+    Nature's is a art of God
+</h2>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Expedita, praesentium. Eos iste quae quia cum debitis quibusdam autem rem sapiente! Fugit veniam beatae molestiae repudiandae quos asperiores quia quis inventore ex. Consequuntur sapiente minus molestiae sit aut nostrum cum nemo. ipsum dolor sit amet consectetur adipisicing elit. Laboriosam quia ut dolor non consequuntur, magni quod. Id consectetur hic maiores.
+</p>
+<button id="mole">
+    Read More
+</button>
+</div>
+    
+</body>
+</html>
