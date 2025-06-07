@@ -12,7 +12,8 @@ This is a simple HTML and CSS project that showcases a **nature-themed content c
 
 ## 📸 Preview
 
-![Nature Card Screenshot](https://drive.google.com/file/d/1IDTOQcR94uYQNLoHZZgOLxw9VZSqjGtT/view?usp=sharing)
+![Nature Card Screenshot](https://drive.google.com/uc?export=view&id=1IDTOQcR94uYQNLoHZZgOLxw9VZSqjGtT)
+
 
 ## 💻 Technologies Used
 
