@@ -12,7 +12,7 @@ This is a simple HTML and CSS project that showcases a **nature-themed content c
 
 ## 📸 Preview
 
-![Nature Card Screenshot](https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=)
+![Nature Card Screenshot](https://drive.google.com/file/d/1IDTOQcR94uYQNLoHZZgOLxw9VZSqjGtT/view?usp=drive_link)
 
 ## 💻 Technologies Used
 
