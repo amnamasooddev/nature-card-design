@@ -12,7 +12,7 @@ This is a simple HTML and CSS project that showcases a **nature-themed content c
 
 ## 📸 Preview
 
-![Nature Card Screenshot](https://drive.google.com/file/d/1IDTOQcR94uYQNLoHZZgOLxw9VZSqjGtT/view?usp=drive_link)
+![Nature Card Screenshot](https://drive.google.com/file/d/1IDTOQcR94uYQNLoHZZgOLxw9VZSqjGtT/view?usp=sharing)
 
 ## 💻 Technologies Used
 
